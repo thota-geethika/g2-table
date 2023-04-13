@@ -1,0 +1,24 @@
+
+td,th,tr{
+    padding: 7px;
+}
+
+td,th{
+    border-radius: 10%;
+}
+
+table{
+    width: 50%;
+    margin-top: 150px;
+    border-color: #A4BC92;
+    
+}
+
+thead{
+    /* color: brown; */
+    background-color: #D5B4B4;
+}
+
+tbody{
+    background-color: #F5EBEB;
+}
